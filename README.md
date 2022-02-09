@@ -1,18 +1,22 @@
-## Hello World, I'm Alisson!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Ola Mundoo, eu sou o Alisson !! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
-… Fullstack Developer 👩‍💻
- 
-Lover of Technology and Coding 💓
- 
-## About me 
+Pretendo ser um desenvolvedor Fullstack 👩‍💻
+
+<p>Então, eu sou estudo programação a alguns anos, e estou buscando minha primeira oportunidade como Dev, estou focado em aprender Front e Back end, tenho mais familiariadade com JavaScript, Java, Python, PHP e HTML-CSS, no meu dia a dia uso o Ubuntu para tentar aprender mais sobre linux, e tenho familiariadade maior com React, Vuejs e Angular.
+Vou estar mostrando abaixo alguns projetos que fiz para aprender.</p>
+<p>Projeto utilizando HTML e CSS <a href="https://alissonforneck.github.io/projeto-android/" target="_blank" rel="external">Projeto Android</a></p>
+<p>Projeto utilizando a tecnica de parallax <a href="https://alissonforneck.github.io/projeto-cordel/" target="_blank" rel="external">Projeto Cordel</a><p>
+<p>Projeto de calculadora <a href="https://alissonforneck.github.io/projeto-calculadora/" target="_blank" rel="external">Projeto Calculadora</a><p>
+<p>Projeto de login <a href="https://alissonforneck.github.io/projeto-login/" target="_blank" rel="external">Projeto Login</a><p>
+
+## Sobre mim
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alissonforneck)](https://github.com/alissonforneck)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisson-forneck-8902061b2/)](https://www.linkedin.com/in/alisson-forneck-8902061b2/)
 <br>
-I seek my first experience as a developer and I have some I will show you a little of my portfolio<br>
-<a href="https://alissonforneck.github.io/projeto-android/" target="_blank">Projeto Basico com HTML-CSS</a>
 
-## Languages and Tools:
-[![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonforneck)](https://github.com/alissonforneck/github-readme-stats)
+
+## Linguagens que mais utilizo:
+[![AlissonForneck GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonforneck)](https://github.com/alissonforneck/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonforneck&layout=compact)](https://github.com/alissonforneck/github-readme-stats)
 
 
@@ -24,6 +28,4 @@ I seek my first experience as a developer and I have some I will show you a litt
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 
-- Thanks for visiting. 
- 
-- Enjoy it!! 🤖
+- Obrigado por me vir. 
