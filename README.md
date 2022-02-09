@@ -7,7 +7,7 @@ Vou estar mostrando abaixo alguns projetos que fiz para aprender.</p>
 <p>Projeto utilizando HTML e CSS <a href="https://alissonforneck.github.io/projeto-android/" target="_blank" rel="external">Projeto Android</a></p>
 <p>Projeto utilizando a tecnica de parallax <a href="https://alissonforneck.github.io/projeto-cordel/" target="_blank" rel="external">Projeto Cordel</a><p>
 <p>Projeto de calculadora <a href="https://alissonforneck.github.io/projeto-calculadora/" target="_blank" rel="external">Projeto Calculadora</a><p>
-<p>Projeto de login <a href="https://alissonforneck.github.io/projeto-login/" target="_blank" rel="external">Projeto Login</a><p>
+<p>Projeto de login <a href="https://alissonforneck.github.io/Projeto-login/" target="_blank" rel="external">Projeto Login</a><p>
 
 ## Sobre mim
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alissonforneck)](https://github.com/alissonforneck)
