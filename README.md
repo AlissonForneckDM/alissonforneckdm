@@ -1,6 +1,6 @@
 ## Ola Mundoo, eu sou o Alisson !! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
-Pretendo ser um desenvolvedor Fullstack 👩‍💻
+Pretendo ser um Desenvolvedor Fullstack 👩‍💻
 
 <p>Então, eu sou estudo programação a alguns anos, e estou buscando minha primeira oportunidade como Dev, estou focado em aprender Front e Back end, tenho mais familiariadade com JavaScript, Java, Python, PHP e HTML-CSS, no meu dia a dia uso o Ubuntu para tentar aprender mais sobre linux, e tenho familiariadade maior com React, Vuejs e Angular.
 Vou estar mostrando abaixo alguns projetos que fiz para aprender.</p>
