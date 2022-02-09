@@ -18,6 +18,14 @@ Vou estar mostrando abaixo alguns projetos que fiz para aprender.</p>
 ## Linguagens que mais utilizo:
 [![AlissonForneck GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonforneck)](https://github.com/alissonforneck/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonforneck&layout=compact)](https://github.com/alissonforneck/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonforneck&langs_count=8)](https://github.com/alissonforneck/github-readme-stats)
+
+
+
+
+
+
+
 
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
