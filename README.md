@@ -36,4 +36,4 @@ Vou estar mostrando abaixo alguns projetos que fiz para aprender.</p>
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 
-- Obrigado por me vir. 
+- Obrigado a todos por chegarem até aqui. 
