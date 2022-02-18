@@ -1,6 +1,6 @@
 ## Ola Mundoo, eu sou o Alisson !! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
-Pretendo ser um Desenvolvedor Fullstack 👩‍💻
+Pretendo ser um Desenvolvedor 👩‍💻
 
 <p>Meu nome é Alisson Forncek, eu sou estudante de programação a alguns anos e estou buscando minha primeira oportunidade como Dev, atualmente estou focado em aprender Front e Back end, tenho mais familiariadade com JavaScript, Java, Python, PHP e HTML-CSS, no meu dia a dia uso o Ubuntu para tentar aprender mais sobre o mundo linux, e tenho mais experiência com React, Vuejs e Angular.
 Vou estar mostrando abaixo alguns projetos que fiz para aprender.</p>
