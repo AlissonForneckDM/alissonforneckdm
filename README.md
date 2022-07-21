@@ -1,8 +1,8 @@
 ## Ola Mundoo, eu sou o Alisson !! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
-Pretendo ser um Desenvolvedor 👩‍💻
+Desenvolvedor Mobile 👩‍💻
 
-<p>Meu nome é Alisson Forncek, eu sou estudante de programação a alguns anos e estou buscando minha primeira oportunidade como Dev, atualmente estou focado em aprender Front e Back end, tenho mais familiariadade com JavaScript, Java, Python, PHP e HTML-CSS, no meu dia a dia uso o Ubuntu para tentar aprender mais sobre o mundo linux, e tenho mais experiência com React, Vuejs e Angular.
+<p>Meu nome é Alisson Forncek, eu sou estudante de ciências da computação, atualmente estou focado em aprender Flutter, tenho mais familiariadade com JavaScript, Java, Python, PHP e HTML-CSS, no meu dia a dia uso o Ubuntu para tentar aprender mais sobre o mundo linux.
 Vou estar mostrando abaixo alguns projetos que fiz para aprender.</p>
 <p>Projeto utilizando HTML e CSS <a href="https://alissonforneck.github.io/projeto-android/" target="_blank" rel="external">Projeto Android</a></p>
 <p>Projeto utilizando a tecnica de parallax <a href="https://alissonforneck.github.io/projeto-cordel/" target="_blank" rel="external">Projeto Cordel</a><p>
