@@ -7,7 +7,7 @@ Estou sempre buscando oportunidades para aprender, tenho outros projetos de atua
 </p>
 
 <p>Info para contato:
-E-mail: alissonfornceck@gmail.com</p>p
+E-mail: alissonfornceck@gmail.com</p>
 
 
 
