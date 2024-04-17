@@ -1,9 +1,14 @@
 ## Ola Mundoo, eu sou o Alisson !! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
-Estudante de desenvolvimento mobile 👩‍💻
+  QA / DEV C#👩‍💻
 
-<p>Meu nome é Alisson Forncek, eu sou estudante de ciências da computação, trabalho como QA lead na Woopi, estou focado em aprender Flutter, no meu dia a dia uso o Ubuntu para tentar aprender mais sobre o mundo linux.
-Vou estar mostrando abaixo alguns projetos que fiz para aprender.</p>
+<p>Meu nome é Alisson Forncek, eu sou estudante de ciências da computação, trabalho como QA lead na Woopi, atualmente estou focado em aprender C#, pretendo fazer a migração para Developer e continuar meus estudos, estou fazendo o curso do professor Nelio Alves.
+Estou sempre buscando oportunidades para aprender, tenho outros projetos de atuação também.
+</p>
+
+<p>Info para contato:
+E-mail: alissonfornceck@gmail.com</p>p
+
 
 
 ## Sobre mim
