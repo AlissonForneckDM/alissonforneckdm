@@ -17,11 +17,6 @@ E-mail: alissonfornceck@gmail.com</p>
 <br>
 
 
-## Linguagens que mais utilizo:
-[![AlissonForneck GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonforneck)](https://github.com/alissonforneck/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonforneck&layout=compact)](https://github.com/alissonforneck/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonforneck&langs_count=8)](https://github.com/alissonforneck/github-readme-stats)
-
 
 
 
